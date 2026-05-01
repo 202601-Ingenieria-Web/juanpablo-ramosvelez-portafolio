@@ -2,7 +2,7 @@ Portafolio personal desarrollado como proyecto evaluativo para la materia **Inge
 
 ---
 
-## 🚀 Demo en vivo
+## 🚀 Demo en vivo - Vercel
 
 🔗 [...](https://juanpablo-ramosvelez-portafolio-d4al4aloz.vercel.app/)
 
