@@ -33,7 +33,7 @@ export const portfolioData: PortfolioData = {
       age: '25',
       city: 'Bello, Ant',
       availability: 'Disponible',
-      address: 'Florida',
+      address: 'La Florida',
     },
   },
 
